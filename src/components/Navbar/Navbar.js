@@ -17,16 +17,16 @@ const Navbar = () => {
             <nav className="navbar">
               <ul>
                 <li>
-                  <a href="/">Timeline</a>
+                  <a href="#">Timeline</a>
                 </li>
                 <li>
-                  <a href="/">Albums</a>
+                  <a href="#">Albums</a>
                 </li>
                 <li>
-                  <a href="/">Events</a>
+                  <a href="#">Events</a>
                 </li>
                 <li>
-                  <a href="/">Favorites</a>
+                  <a href="#">Favorites</a>
                 </li>
               </ul>
             </nav>

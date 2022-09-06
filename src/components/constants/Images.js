@@ -53,23 +53,28 @@ export const images = [{
 ]
 
 export const ArchImages = [{
-    path: 15,
-    className: "landscape"
-},
-{
-    path: 10,
+    path: 2,
     className: "long"
-},
-{
-    path: 9,
-    className: "medium"
 },
 {
     path: 12,
     className: "landscape"
 },
 {
+    path: 5,
+    className: "medium"
+},
+{
+    path: 1,
+    className: "landscape"
+},
+{
     path: 13,
+    className: "medium"
+},
+{
+    path: 15,
     className: "long"
-}]
+},
 
+]
