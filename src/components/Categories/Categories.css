@@ -1,0 +1,46 @@
+.categories{
+    display: flex;
+    border-bottom: 1px solid  #212325;
+}
+
+.categories ul{
+    display: flex;
+}
+
+.categories ul li{
+    padding-right: 40px;
+    list-style: none;
+    cursor: pointer;
+}
+
+.categories ul li a{
+    text-decoration: none;
+    color: #6F7378;
+    font-family: Inter;
+    font-size: 14px;
+}
+
+.categories ul li a:hover{
+    color: white;
+}
+
+.categories ul li a:active{
+    border-bottom: 2 px solid white;
+}
+
+.btn2{
+    height: 35px;
+    margin-top: 8px;
+    width: 140px;
+    background-color: #323337;
+    color: #B7BEC7;
+    border-radius: 300px;
+    border: none;
+    margin-left: 120px;
+    font-family: Inter;
+    cursor: pointer;
+}
+
+.btn2:hover{
+    color: white;
+}
